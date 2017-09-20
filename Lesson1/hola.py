@@ -14,7 +14,7 @@ def main():
 
     if 0<0.1:
         rickDialog=rick("m-m-m-orty","w-w-what are you doing!?")
-        mortyDialog=morty("r-r-rick","i d-dont know..");
+        mortyDialog=morty("r-r-rick","i d-dont know..")
 
         print(rickDialog)
         print(len(rickDialog))
